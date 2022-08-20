@@ -1,0 +1,3 @@
+.NavItem {
+  @apply font-extrabold text-white text-base shrink-0 cursor-pointer
+}

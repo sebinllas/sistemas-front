@@ -1,0 +1,3 @@
+.Hero {
+  @apply relative w-full h-[500px] overflow-hidden
+}
